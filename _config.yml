@@ -1,10 +1,10 @@
 # Site settings
-title: Luke Griffin
-email: griffinluke321@gmail.com
+title: Claw Cuts
+email: cutsclaw@gmail.com
 url: https://github.com/LukeGrif
-description: "Electronic and Computer Engineering graduate from the University of Limerick, now starting a PhD. I have hands-on experience in software engineering, data science, and semiconductor manufacturing, and have worked as a Teaching Assistant in ECE dept. Passionate about applying technology to real-world challenges and continuing to grow through research and innovation."
-keywords: "Electronic and Computer Engineering"
-skills: "Programming"
+description: "Up and Coming Barber in Lissycasey"
+keywords: "Barber"
+skills: "Fades"
 meta_author: Griffin Luke
 
 # Google webmaster tools
@@ -32,21 +32,19 @@ color:
 
 # Footer settings
 footer:
-  copyright: “No man ever steps in the same river twice, for it is not the same river and he is not the same man.” – Heraclitus
+  copyright: "A great haircut isn’t just about style—it’s about confidence. At Claw Cuts, we don’t just shape hair; we sharpen personalities. Book your cut today and leave feeling unstoppable. — Aaron Claw"
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedin
-    url: https://www.linkedin.com/in/luke-griffin-344854279/
-  - title: github
-    url: http://github.com/LukeGrif
+  - title: instagram
+    url: https://www.instagram.com/aaron_clohessy/?hl=en
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: <a href="https://www.google.com/maps/place/Lissycasey,+Co.+Clare/@52.7496975,-9.1567073,15z/data=!3m1!4b1!4m6!3m5!1s0x485b17725ff3cf57:0xc8229fe21b4f74fb!8m2!3d52.749243!4d-9.1469855!16zL20vMDJsd3B3?entry=ttu&g_ep=EgoyMDI1MDYyMi4wIKXMDSoASAFQAw%3D%3D">Lissycasey</a>
+  - line: Caherea, <a href="https://www.google.com/maps/place/Lissycasey,+Co.+Clare/@52.7496975,-9.1567073,15z/data=!3m1!4b1!4m6!3m5!1s0x485b17725ff3cf57:0xc8229fe21b4f74fb!8m2!3d52.749243!4d-9.1469855!16zL20vMDJsd3B3?entry=ttu&g_ep=EgoyMDI1MDYyMi4wIKXMDSoASAFQAw%3D%3D">Lissycasey</a>
   - line: Co. Clare, Ireland
 
 # Credits content
