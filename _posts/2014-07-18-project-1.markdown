@@ -4,8 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
+project-date: May 2025
 client: Kevin Shivers
 category: Low Taper
-description: Very happy with this one. Sadly didn't get paid the correct amount.
+description: Very happy with this one. Kevin you owe me man.
 ---
